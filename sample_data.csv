@@ -1,0 +1,51 @@
+id,member_id,loan_amnt,emp_length,annual_inc,dti,delinq_2yrs,emp_title,purpose
+1077501,1296599,5000,10+ years,24000.0,27.65,0.0,,credit_card
+1077430,1314167,2500, 1 year,30000.0,1.0,0.0,Ryder,car
+1077175,1313524,2400,10+ years,12252.0,8.72,0.0,,small_business
+1076863,1277178,10000,10+ years,49200.0,20.0,0.0,AIR RESOURCES BOARD,other
+1075358,1311748,3000,1 year,80000.0,17.94,0.0,University Medical Group,other
+1075269,1311441,5000,3 years,36000.0,11.2,0.0,Veolia Transportaton,wedding
+1069639,1304742,7000,8 years,47004.0,23.51,0.0,Southern Star Photography,debt_consolidation
+1072053,1288686,3000,9 years,48000.0,5.35,0.0,MKC Accounting ,car
+1071795,1306957,5600,4 years,40000.0,5.55,0.0,,small_business
+1071570,1306721,5375, 1 year,15000.0,18.08,0.0,Starbucks,other
+1070078,1305201,6500,5 years,72000.0,16.12,0.0,Southwest Rural metro,debt_consolidation
+1069908,1305008,12000,10+ years,75000.0,10.78,0.0,UCLA,debt_consolidation
+1064687,1298717,9000, 1 year,30000.0,10.08,0.0,Va. Dept of Conservation/Recreation,debt_consolidation
+1069866,1304956,3000,3 years,15000.0,12.56,0.0,Target,credit_card
+1069057,1303503,10000,3 years,100000.0,7.06,0.0,SFMTA,other
+1069759,1304871,1000, 1 year,28000.0,20.31,0.0,Internal revenue Service,debt_consolidation
+1065775,1299699,10000,4 years,42000.0,18.6,0.0,Chins Restaurant,home_improvement
+1069971,1304884,3600,10+ years,110000.0,10.52,0.0,Duracell,major_purchase
+1062474,1294539,6000,1 year,84000.0,18.44,2.0,Connection Inspection,medical
+1069742,1304855,9200,6 years,77385.19,9.86,0.0,Network Interpreting Service,debt_consolidation
+1069740,1284848,20250,3 years,43370.0,26.53,0.0,Archdiocese of Galveston Houston,debt_consolidation
+1039153,1269083,21000,10+ years,105000.0,13.22,0.0,Osram Sylvania,debt_consolidation
+1069710,1304821,10000,10+ years,50000.0,11.18,0.0,Value Air,credit_card
+1069700,1304810,10000,5 years,50000.0,16.01,0.0,Wells Fargo Bank,debt_consolidation
+1069559,1304634,6000,1 year,76000.0,2.4,0.0,bmg-educational,major_purchase
+1069697,1273773,15000,2 years,92000.0,29.44,0.0,Winfield Pathology Consultants,credit_card
+1069800,1304679,15000,9 years,60000.0,15.22,0.0,nyc transit,debt_consolidation
+1069657,1304764,5000,2 years,50004.0,13.97,3.0,Frito Lay,other
+1069799,1304678,4000,10+ years,106000.0,5.63,1.0,Shands Hospital at the University of Fl,debt_consolidation
+1047704,1278806,8500, 1 year,25000.0,12.19,0.0,Oakridge homes,credit_card
+1032111,1261745,4375,7 years,17108.0,20.34,0.0,,debt_consolidation
+1069539,1304608,31825,5 years,75000.0,14.03,0.0,Audubon Mutual Housing Corporation,debt_consolidation
+1065420,1299514,10000,2 years,29120.0,22.83,0.0,US Legal Support,debt_consolidation
+1069591,1304289,5000,2 years,24044.0,11.93,0.0,Good Samaritan Society,debt_consolidation
+1069530,1291365,7000,7 years,34000.0,6.35,0.0,GREG BARRETT DRYWALL,credit_card
+1069522,1304589,12400,10+ years,41000.0,11.8,0.0,Sharp Lawn Inc.,credit_card
+1069361,1304255,10800,2 years,55596.0,5.5,0.0,Department of Justice,moving
+1069357,1304251,15000,1 year,45000.0,8.48,0.0,Gateway Hospice,debt_consolidation
+1069356,1304250,6000,1 year,36852.0,10.62,0.0,Cox Communications,debt_consolidation
+1069346,1304237,12500,1 year,27000.0,16.04,0.0,United States Infrastructure Corporation,debt_consolidation
+1067573,1301955,9600,4 years,68004.0,6.63,0.0,Nucor Building Systems,other
+1069506,1304567,12000,10+ years,62300.0,16.7,0.0,John Wiley Jr.,debt_consolidation
+1069314,1304202,3000,9 years,65000.0,17.39,0.0,,other
+1060578,1292332,4400,10+ years,55000.0,20.01,0.0,citizens bank,debt_consolidation
+1069469,1304526,6000,10+ years,45600.0,5.34,0.0,Stewart Enterprises Inc.,debt_consolidation
+1051117,1282787,14000,6 years,80000.0,10.0,0.0,golfers warehouse,small_business
+1069465,1304521,5000,10+ years,100000.0,16.33,0.0,STERIS Corporation,debt_consolidation
+1069283,1304166,10000,6 years,27000.0,11.47,0.0,Costco Wholesale Corp.,other
+1069287,1304171,10000,10+ years,60000.0,12.74,0.0,Helicoil,credit_card
+1069453,1303701,11000,5 years,70000.0,10.85,0.0,cognizant technology solutions,debt_consolidation
