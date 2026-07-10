@@ -1,6 +1,7 @@
 # predictive_credit_risk_sql_python_powerbi
-**🏦 Predictive Credit Risk Scoring & Retail Underwriting Framework
-🚀 Project Overview**
+**🏦 Predictive Credit Risk Scoring & Retail Underwriting Framework**
+
+**🚀 Project Overview**
 
 This project presents an end-to-end Credit Risk Analytics and Retail Underwriting Framework designed to assist financial institutions in assessing borrower risk, supporting underwriting decisions, and monitoring loan portfolio health.
 
@@ -9,6 +10,7 @@ Using MySQL, Python, XGBoost, and Power BI, the project transforms raw loan appl
 The solution demonstrates how data analytics and machine learning can improve lending decisions, reduce credit risk, and optimize capital allocation.
 
 **🎯 Business Objectives**
+
 Assess borrower creditworthiness using historical loan information.
 Predict the Probability of Default (PD) for each borrower.
 Generate an interpretable credit score for underwriting.
@@ -18,6 +20,7 @@ Build an interactive executive dashboard for portfolio monitoring.
 Support data-driven underwriting and credit approval decisions.
 
 **🛠️ Tools & Technologies**
+
 Tool	Purpose
 MySQL	Data Cleaning, Data Validation, SQL Analysis
 Python	Data Preprocessing, Feature Engineering, Machine Learning
@@ -262,7 +265,6 @@ Use PD and Credit Score together for better lending decisions.
 Continuously retrain predictive models with new loan performance data.
 
 **📸 Dashboard Preview**
-
 
 <img width="1357" height="796" alt="Screenshot 2026-07-10 172523" src="https://github.com/user-attachments/assets/b257074a-60bb-4235-a27d-b73adf68f131" />
 
